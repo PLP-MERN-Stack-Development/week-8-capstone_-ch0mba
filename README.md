@@ -2,6 +2,8 @@
 
 A comprehensive MERN stack application for managing logistics operations including deliveries, vehicles, drivers, expenses, and inventory.
 
+- vercel link: https://week-8-capstone-ch0mba.vercel.app/
+
 ## 🚀 Features
 
 - **Dashboard**: Real-time metrics and activity monitoring
